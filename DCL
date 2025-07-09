@@ -1,1 +1,3 @@
+GRANT and REVOKE 
 
+Access Privileges
