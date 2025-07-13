@@ -1,1 +1,1 @@
-
+INSERT UPDATE and DELETE
